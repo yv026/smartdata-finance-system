@@ -1,1 +1,0 @@
-# smartdata-finance-system
